@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/saakarx/tip-calculator](https://github.com/saakarx/tip-calculator?tab=readme-ov-file)
+- Live Site URL: [https://tip-calculator-six-orpin.vercel.app/](https://tip-calculator-six-orpin.vercel.app/)
 
 ## My process
 
@@ -65,7 +65,7 @@ export default defineConfig({
 });
 ```
 
-*If encountering error for react vite plugin not compatible for the plugins key in config, remove and add the vite and vitest package.*
+_If encountering error for react vite plugin not compatible for the plugins key in config, remove and add the vite and vitest package._
 
 ### Continued development
 
